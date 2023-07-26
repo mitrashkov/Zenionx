@@ -32,5 +32,5 @@ For support, email hypexdevelopers@gmail.com or join our Discord channel.
 If you have any feedback, please reach out to us at hypexdevelopers@gmail.com
 
 
-![Logo](https://i.ibb.co/SXZ256X/My-project.png)
+![Logo]([img]https://i.ibb.co/SXZ256X/My-project.png[/img])
 
