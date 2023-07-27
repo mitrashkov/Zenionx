@@ -84,6 +84,13 @@ nav {
     align-items: center;
     padding: 0rem 2rem;
   }
+
+  .column-right2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 2rem;
+  }
   
   .hero-image {
     width: 150%;
@@ -133,6 +140,72 @@ body{
 }
 
 body {
-    background: #ff9514;
+    background: white;
     color: #000;
+}
+
+.aboutus {
+    text-align: center;
+    font-size: 50px;
+}
+
+.chatlogo {
+    width: 47%;
+    height: 40%;
+    object-position: top 100px left 100px;
+}
+
+.footer{
+    margin-top: 350px;
+    width: 100%;
+    padding: 100px 15%;
+    background: #DA291C;
+    color: white;
+    display: flex;
+    text-align: center;
+}
+
+.footer1 {
+    flex-grow: 1;
+}
+
+.footer3 {
+    flex-grow: 1;
+}
+
+.footer div h2 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.footer1 a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+.footer2 a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+.footer3 a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.column-right2 {
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+  line-height: 1.5;
+  justify-content: center;
+  max-width: 600px;
+  position: relative;
+  left: 1090px;
+  bottom: 280px;
+  text-align: center;
 }
